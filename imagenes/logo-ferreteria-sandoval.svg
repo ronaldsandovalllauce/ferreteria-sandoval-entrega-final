@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 44" width="270" height="44" role="img" aria-label="Logo de Ferretería Sandoval">
+  <rect y="4" width="40" height="40" rx="7" fill="#15425A"></rect>
+  <path transform="translate(-1 0)" d="M9 13V35M6.75 15.25H21M9 24H19M34.5 19C34.5 16.5 32.5 15.25 30.5 15.25C28.2 15.25 26.5 16.8 26.5 19.2C26.5 21.8 28.5 23 30.5 24C32.7 25 34.5 26.2 34.5 28.8C34.5 31.3 32.7 32.75 30.5 32.75C28.3 32.75 26.7 31.4 26.5 29" fill="none" stroke="#FAF7F2" stroke-width="4.5" stroke-linejoin="round"></path>
+  <g transform="translate(36 40) rotate(28)">
+    <rect x="-3" y="-22" width="6" height="22" rx="2" fill="#E08A1E"></rect>
+    <rect x="-8" y="-30" width="16" height="9" rx="2" fill="#E08A1E"></rect>
+  </g>
+  <text x="68" y="33" font-family="Oswald, 'Arial Narrow', sans-serif" font-size="28" font-weight="700" fill="#15425A">Ferretería Sandoval</text>
+</svg>
